@@ -2,6 +2,18 @@
 
 DataExtractPro is an automated tool for extracting structured information from company documents (such as annual reports, CIMs, etc.) using Google's Gemini AI model.
 
+<div align="center">
+  <img src="data_extractor_illustration.png" width="400" alt="DataExtractPro Illustration">
+</div>
+
+## Demo
+
+<div align="center">
+  <img src="data_extractor_demo.gif" width="400" alt="DataExtractPro Demo">
+</div>
+
+📺 [Watch Demo on YouTube](https://youtu.be/dRaBDlTZ-aI)
+
 ## Setup
 
 ### Prerequisites
